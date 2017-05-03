@@ -1,13 +1,11 @@
 package com;
-
 import java.util.concurrent.TimeUnit;
-import com.SevenBonus;
+
 import org.junit.AfterClass;
 import org.junit.BeforeClass;
 import org.junit.Test;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-
 public class TestSeven {
 
 
@@ -17,8 +15,8 @@ public class TestSeven {
 	private static WebDriver driver;
 		
 		@BeforeClass
-		public void setUpBeforeClass() throws Exception {
-			System.setProperty("webdriver.chrome.driver","O:\\QA Courses\\54919.1\\Selenium Gil\\Resources\\Exe\\chromedriver.exe");
+		public static void setUpBeforeClass() throws Exception {
+			System.setProperty("webdriver.chrome.driver","C:\\Users\\jbt\\Selenium\\git\\Selenium Project\\Exe\\chromedriver.exe");
 			driver = new ChromeDriver();
 			driver.manage().timeouts().implicitlyWait(15, TimeUnit.SECONDS);
 			driver.manage().window().maximize();
@@ -40,7 +38,7 @@ public class TestSeven {
 				System.out.println(url);
 						
 				
-				driver.SevenBonus("==");
+				//driver.SevenBonus("==");
 
 				System.out.println("==");
 				
