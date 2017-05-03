@@ -44,7 +44,7 @@ public class Parameterize {
 	public void setUp() throws Exception {
 		
 //		System.setProperty("webdriver.chrome.driver","C:\\Resources\\Exe\\chromedriver.exe");
-		System.setProperty("webdriver.chrome.driver","O:\\QA Courses\\54919.1\\Igor\\Selenium Project\\Exe\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver","C:\\Users\\jbt\\Selenium\\git\\Selenium Project\\Exe\\chromedriver.exe");
 		driver = new ChromeDriver();
 		driver.manage().timeouts().implicitlyWait(15, TimeUnit.SECONDS);
 		
