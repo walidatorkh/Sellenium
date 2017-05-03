@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	
+	 <Application>
+	 <!-- LOGIN -->
+	<Page Name="CasinoMain">
+		<PropertyName>title</PropertyName>
+		<PropertyValue>777 Casino</PropertyValue>
+		<Object Name="PlayNowLink" Type="A">
+			<PropertyName>linkText</PropertyName>
+			<PropertyValue>PLAY NOW</PropertyValue>
+		</Object>
+		<Object Name="LogoImage" Type="IMAGE">
+			<PropertyName>xpath</PropertyName>
+			<PropertyValue>//img[@title='777 Online Casino']</PropertyValue>
+		</Object>
+	</Page>
+	</Application>

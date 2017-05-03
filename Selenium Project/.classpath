@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="/TestJunit"/>
+	<classpathentry kind="lib" path="O:/QA Courses/54919.1/Igor/Selenium Project/lib/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="O:/QA Courses/54919.1/Igor/Selenium Project/lib/bson-3.3.0.jar"/>
+	<classpathentry kind="lib" path="O:/QA Courses/54919.1/Igor/Selenium Project/lib/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="O:/QA Courses/54919.1/Igor/Selenium Project/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="O:/QA Courses/54919.1/Igor/Selenium Project/lib/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="O:/QA Courses/54919.1/Igor/Selenium Project/lib/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="O:/QA Courses/54919.1/Igor/Selenium Project/lib/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="O:/QA Courses/54919.1/Igor/Selenium Project/lib/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="O:/QA Courses/54919.1/Igor/Selenium Project/lib/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="O:/QA Courses/54919.1/Igor/Selenium Project/lib/jsoup-1.9.2.jar"/>
+	<classpathentry kind="lib" path="O:/QA Courses/54919.1/Igor/Selenium Project/lib/mongodb-driver-3.3.0.jar"/>
+	<classpathentry kind="lib" path="O:/QA Courses/54919.1/Igor/Selenium Project/lib/mongodb-driver-core-3.3.0.jar"/>
+	<classpathentry kind="lib" path="O:/QA Courses/54919.1/Igor/Selenium Project/lib/testng-6.9.10.jar"/>
+	<classpathentry kind="lib" path="O:/QA Courses/54919.1/Igor/Selenium Project/selenium-server-standalone-3.2.0.jar"/>
+	<classpathentry kind="lib" path="O:/QA Courses/54919.1/Igor/Selenium Project/extentreports-java-3.0.3/extentreports-3.0.3.jar"/>
+	<classpathentry kind="lib" path="O:/QA Courses/54919.1/Igor/Selenium Project/extentreports-java-3.0.3/lib/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="O:/QA Courses/54919.1/Igor/Selenium Project/extentreports-java-3.0.3/lib/bson-3.3.0.jar"/>
+	<classpathentry kind="lib" path="O:/QA Courses/54919.1/Igor/Selenium Project/extentreports-java-3.0.3/lib/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="O:/QA Courses/54919.1/Igor/Selenium Project/extentreports-java-3.0.3/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="O:/QA Courses/54919.1/Igor/Selenium Project/extentreports-java-3.0.3/lib/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="O:/QA Courses/54919.1/Igor/Selenium Project/extentreports-java-3.0.3/lib/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="O:/QA Courses/54919.1/Igor/Selenium Project/extentreports-java-3.0.3/lib/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="O:/QA Courses/54919.1/Igor/Selenium Project/extentreports-java-3.0.3/lib/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="O:/QA Courses/54919.1/Igor/Selenium Project/extentreports-java-3.0.3/lib/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="O:/QA Courses/54919.1/Igor/Selenium Project/extentreports-java-3.0.3/lib/jsoup-1.9.2.jar"/>
+	<classpathentry kind="lib" path="O:/QA Courses/54919.1/Igor/Selenium Project/extentreports-java-3.0.3/lib/mongodb-driver-3.3.0.jar"/>
+	<classpathentry kind="lib" path="O:/QA Courses/54919.1/Igor/Selenium Project/extentreports-java-3.0.3/lib/mongodb-driver-core-3.3.0.jar"/>
+	<classpathentry kind="lib" path="O:/QA Courses/54919.1/Igor/Selenium Project/extentreports-java-3.0.3/lib/testng-6.9.10.jar"/>
+	<classpathentry kind="lib" path="O:/QA Courses/54919.1/Igor/Selenium Project/Excel Jars/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="O:/QA Courses/54919.1/Igor/Selenium Project/Excel Jars/poi-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="O:/QA Courses/54919.1/Igor/Selenium Project/Excel Jars/poi-ooxml-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="O:/QA Courses/54919.1/Igor/Selenium Project/Excel Jars/poi-ooxml-schemas-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="O:/QA Courses/54919.1/Igor/Selenium Project/Excel Jars/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="Exe/chromedriver.exe"/>
+	<classpathentry kind="lib" path="O:/QA Courses/54919.1/Igor/Selenium Project/selenium-java-3.4.0/client-combined-3.4.0-nodeps.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

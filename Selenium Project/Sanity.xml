@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tests>
+<test FirstName="Gil" LastName="Shalev"></test>
+<test FirstName="Ron" LastName="Shalev"></test>
+</tests>
